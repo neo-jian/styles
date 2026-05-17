@@ -60,7 +60,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name/>
+      <name et-al-min="7" et-al-use-first="6"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
