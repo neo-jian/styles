@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>华中科技大学（理工科）</title>
-    <id>https://zotero-chinese.com/styles/华中科技大学（理工科）</id>
+    <title>华中科技大学（光电2022）</title>
+    <id>https://zotero-chinese.com/styles/华中科技大学（光电2022）</id>
     <link href="https://zotero-chinese.com/styles/华中科技大学（理工科）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="http://gs.hust.edu.cn/info/1041/5462.htm" rel="documentation"/>
@@ -60,7 +60,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name/>
+      <name et-al-min="7" et-al-use-first="6"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
